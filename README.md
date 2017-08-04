@@ -1,0 +1,1 @@
+[![](https://jitpack.io/v/zhangyugehu/BaseLibrary.svg)](https://jitpack.io/#zhangyugehu/BaseLibrary)

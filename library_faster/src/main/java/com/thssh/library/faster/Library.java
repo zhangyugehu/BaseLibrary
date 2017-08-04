@@ -7,5 +7,5 @@ package com.thssh.library.faster;
  */
 
 public interface Library {
-    double VERSION = 0.1;
+    double VERSION = 0.3;
 }
