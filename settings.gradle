@@ -1,1 +1,1 @@
-include ':app', ':library_faster'
+include ':library_faster'
